@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins" ;
+}
+
+h1,h2,h3 .card-body>.card-title {
+  font-family: "Poppins", cursive;
+}
+
+.card-title {
+
+  font-weight: 500;
+  font-size: 1.25rem; 
+}
+
+.card-img-overlay .card-title {
+  color: black;
+  
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+ 
+}
+
+.jumbotron h2 {
+  color: #3a78ca;
+}
+
+.navbar-dark {
+  background-color: rgba(226, 166, 14, 0.582);
+
+}
+
+
